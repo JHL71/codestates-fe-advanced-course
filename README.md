@@ -1,7 +1,7 @@
 # codestates-fe-advanced-course
 
 - 완성된 GIF 파일 및 배포 링크
- [배포링크](http://simple-post-bucket.s3-website.ap-northeast-2.amazonaws.com/posts)
+ - [배포링크](http://simple-post-bucket.s3-website.ap-northeast-2.amazonaws.com/posts)
 - 프로젝트 실행 방법
  - npm install
  - npm run start
