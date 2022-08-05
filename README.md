@@ -11,7 +11,7 @@
   - react
   - axios
 - 구현한 기능 목록 (Software Requirement Specification)
-  # Bare minimum requirements
+  ###### Bare minimum requirements
     - 게시물 리스트 구현
     - 게시물 상세페이지 구현
     - 게시물 페이지네이션 구현
